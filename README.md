@@ -1,6 +1,4 @@
-### Olá! Eu sou Lucas Ribeiro 👋
-
-Here are some ideas to get you started:
+### Olá! Eu sou o Lucas Ribeiro 👋
 
 - 😏 Estudando JS
 - 🧑‍💻 Cursando Sistemas de Informação
