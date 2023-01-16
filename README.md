@@ -1,7 +1,7 @@
 ### Olá! Sou Lucas Ribeiro 👋
 
-- 😏 Estudando JS
 - 🧑‍💻 Cursando Sistemas de Informação
+- 😏 Estudando JS
 
 <div>
 <a href="https://github.com/Lucas53gt">
