@@ -1,4 +1,4 @@
-### Olá! Eu sou o Lucas Ribeiro 👋
+### Olá! Sou Lucas Ribeiro 👋
 
 - 😏 Estudando JS
 - 🧑‍💻 Cursando Sistemas de Informação
